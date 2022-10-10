@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik324&label=Profile%20views&color=0e75b6&style=flat" alt="karthik324" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working as a **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://karthik324.github.io/my-personalsite/](https://karthik324.github.io/my-personalsite/) or my [github](https://github.com/karthik324)
 
