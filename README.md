@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik324&show_icons=true&locale=en" alt="karthik324" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik324&" alt="karthik324" /></p>
+
+[![@karthik324's Holopin board](https://holopin.me/karthik324)](https://holopin.io/@karthik324)
