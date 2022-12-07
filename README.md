@@ -13,7 +13,7 @@
 
 - 📫 How to reach me? send a mail to **karthikdileep003@gmail.com**
 
-- ⚡ Fun fact **I'm only 18. LOL It's not funny, but yeah, It's a fact**
+- ⚡ Fun fact **I'm only 19. LOL It's not funny, but yeah, It's a fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
