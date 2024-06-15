@@ -13,8 +13,6 @@
 
 - 📫 How to reach me? send a mail to **karthikdileep003@gmail.com**
 
-- ⚡ Fun fact **I'm only 20. LOL It's not funny, but yeah, It's a fact**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karthik-dileep-381648213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-dileep" height="30" width="40" /></a>
